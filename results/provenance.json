@@ -1,0 +1,8 @@
+{
+  "source_notebooks": {
+    "ddpm_mnist_conditional (5).ipynb": "d8e8485f49946ca4786e14096e489acb2a559d9b7460fad0a3a95a4f56cd4a3c",
+    "memgen_phase_transition_colab_final.ipynb": "9d0bd668100002039216b17723e679a29b8f8c3837f45e7f2d0e90cb98b0c779"
+  },
+  "metrics_source": "Saved text output of cell 53 of the source memorization notebook, rounded to four decimals. No checkpoints or raw seed-level metrics were available in this folder.",
+  "gallery": "Selected PNG outputs from source cells 47 (conditional) and 33 (memorization). Historical images retain their original titles. They have not been recomputed for the curated code."
+}
